@@ -12,3 +12,4 @@
 - 🦉 Dotfiles: [github.com/mag4no10/dotfiles](https://github.com/mag4no10/LinuxDotfiles)
 
 ![mag4no10 stats](https://github-readme-stats.vercel.app/api?username=mag4no10&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mag4no10)](https://github.com/mag4no10/github-readme-stats)
