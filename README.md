@@ -10,3 +10,5 @@
 - 💬 Msg me: [github.com/mag4no10/issues](https://github.com/mag4no10/mag4no10/issues)
 - 📫 Reach me: [instagram.com/jonaygarciaa_](https://instagram.com/jonaygarciaa_/)
 - 🦉 Dotfiles: [github.com/mag4no10/dotfiles](https://github.com/mag4no10/LinuxDotfiles)
+
+![mag4no10 stats](https://github-readme-stats.vercel.app/api?username=mag4no10&show_icons=true&theme=synthwave)
