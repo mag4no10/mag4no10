@@ -1,7 +1,6 @@
 # 💫 About Me:
 Computer Engineer Student at [ULL](https://www.ull.es/).
 Learning networking and pentesting.
-Currently at [Jutge](https://jutge.org/) and [AdventOfCode](https://adventofcode.com/).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonaygarciaa_) 
