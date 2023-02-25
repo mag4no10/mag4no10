@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif">
 
 
-- 🔭 I’m currently studying in **University of La Laguna <br> **(Computer Engineer)**
+- 🔭 I’m currently studying in **University of La Laguna <br> (Computer Engineer)**
 
 - 🌱 I’m currently mastering **Python**
 
