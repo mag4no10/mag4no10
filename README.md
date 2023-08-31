@@ -1,5 +1,5 @@
 [![MasterHead](assets/masterhead.gif)]()
-<h1 align="center"> "Hello World"
+<h1 align="center">
 <img src="assets/hello_world.gif" width="500" height="50">
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mag4no10&label=Profile%20views&color=b400f5&style=flat" alt="mag4no10" /> </p>
