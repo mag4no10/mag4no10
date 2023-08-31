@@ -14,11 +14,11 @@
 
 - 📫 How to reach [**me**](https://github.com/mag4no10/mag4no10/issues)
 
-- Currently using: <br> <p><img style="vertical-align:middle; margin:5px 10px" height=35 width=35 src="assets/arch.png">  [dotfiles](https://github.com/mag4no10/LinuxDotfiles) - [installing guide](https://github.com/mag4no10/arch-linux-guide)</p> <p><img style="vertical-align:middle; margin:5px 0px;" height=35 width=35 src="assets/win11.png"> [WinterOS](https://www.youtube.com/@WinterOS)</p>
+- Currently using: <br> <p><img style="vertical-align:middle; margin:5px 10px" height=35 width=35 src="assets/arch.png"> [dotfiles](https://github.com/mag4no10/LinuxDotfiles) - [installing guide](https://github.com/mag4no10/arch-linux-guide)</p> <p><img style="vertical-align:middle; margin:5px 0px;" height=35 width=35 src="assets/win11.png"> [WinterOS](https://www.youtube.com/@WinterOS)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jonaygarciaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/instagram.svg" alt="jonaygarciaa_" height="30" width="40" /></a>
+<a href="https://instagram.com/jonaygarciaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonaygarciaa_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jonay-faas-garcia-85125022b/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" target="_blank"></a>
 </p>
 
