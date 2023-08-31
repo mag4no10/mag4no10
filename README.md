@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mag4no10/mag4no10/tree/main/assets/masterhead.gif)]()
+[![MasterHead](assets/masterhead.gif)]()
 <h1 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="45">
 </h1>
