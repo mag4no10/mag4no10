@@ -14,7 +14,7 @@
 
 - 📫 How to reach [**me**](https://github.com/mag4no10/mag4no10/issues)
 
-- Currently using <br><br> <img style="vertical-align:middle;margin:5px 0px" height=35 width=35 src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png"> <img style="vertical-align:middle;margin:5px 0px" height=35 width=35 src="https://cdn.icon-icons.com/icons2/2148/PNG/512/arch_linux_icon_132588.png">  <img  style="vertical-align:middle;margin:5px 0px" height=35 width=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Windows_logo_-_2021_%28Black%29.svg/1024px-Windows_logo_-_2021_%28Black%29.svg.png">
+- Currently using <br><br> <img style="vertical-align:middle;margin:5px 0px" height=35 width=35 src="assets/arch.png"><img style="vertical-align:middle;margin:5px 0px" height=35 width=35 src="w11.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
