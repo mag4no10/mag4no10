@@ -27,3 +27,4 @@
 
 <!-- [![mag4no10's tryhackme stats](assets/thm_propic.png)][tryhackme] pen -->
 
+![tryhackme stats](https://raw.githubusercontent.com/<mag4no10>/<mag4no10>/master/assets/thm_propic.png)
