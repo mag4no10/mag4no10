@@ -27,4 +27,4 @@
 
 <h3 align="left"> Hacking stats:</h3>
 
-![tryhackme stats](assets/thm_propic.png) ![hackthebox stats](http://www.hackthebox.eu/badge/image/966754)
+![tryhackme stats](https://raw.githubusercontent.com/mag4no10/mag4no10/master/assets/thm_propic.png) ![hackthebox stats](http://www.hackthebox.eu/badge/image/966754)
