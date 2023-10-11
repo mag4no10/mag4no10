@@ -14,7 +14,7 @@
 
 - 📫 How to reach [**me**](https://github.com/mag4no10/mag4no10/issues)
 
-- Currently using: <br> <p><img style="vertical-align:middle; margin:5px 10px" height=35 width=35 src="assets/arch_blue.svg"> [dotfiles](https://github.com/mag4no10/LinuxDotfiles) - [installing guide](https://github.com/mag4no10/arch-linux-guide)</p> <p><img style="vertical-align:middle; margin:5px 0px;" height=35 width=35 src="assets/windows_blue.png"> [WinterOS](https://www.youtube.com/@WinterOS)</p>
+- Currently using: <br> <p><img style="vertical-align:middle; margin:5px 10px" height=35 width=35 src="assets/arch_blue.svg"> &nbsp; &nbsp; [dotfiles](https://github.com/mag4no10/LinuxDotfiles) - [installing guide](https://github.com/mag4no10/arch-linux-guide)</p> <p><img style="vertical-align:middle; margin:5px 0px;" height=35 width=35 src="assets/windows_blue.png"> &nbsp; &nbsp; [WinterOS](https://www.youtube.com/@WinterOS)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
