@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jonaygarciaa_" target="blank"><img align="center" src="assets/instagram.svg" alt="jonaygarciaa_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jonay-faas-garcia-85125022b/" target="blank"> <img align="center" src="assets/linked-in-alt.svg" height="30" width="40" target="_blank"></a>
+<a href="https://instagram.com/jonaygarciaa_" target="_blank"><img align="center" src="assets/instagram.svg" alt="jonaygarciaa_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonay-faas-garcia-85125022b/" target="_blank"> <img align="center" src="assets/linked-in-alt.svg" height="30" width="40" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
