@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="assets/pond.gif">
 
 
-- 🔭 I’m currently studying in **University of La Laguna <br> (Computer Engineer)**
+- 🔭 I’m currently studying in **University of La Laguna <br> (Computer Science and Engineering)**
 
 - 🌱 I’m currently mastering **Python**
 
