@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying in **University of La Laguna <br> (Computer Science and Engineering)**
 
-- 🌱 I’m currently mastering **Python**
+- 🌱 I’m currently completing **CTF's**
 
 - 💬 Ask me about **Linux, C++ and Python**
 
