@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying at **University of La Laguna <br> (Computer Science and Engineering)**
 
-- 🌱 Learning about Cybersecurity 
+- 🌱 Preparing [EJPTv2](https://security.ine.com/certifications/ejpt-certification/)
 
 - 💬 Ask me about **Linux, C++ and Python**
 
