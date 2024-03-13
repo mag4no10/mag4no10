@@ -35,6 +35,7 @@
   <img src="assets/linux.svg" alt="linux" width="40" height="40"/>
   <img src="assets/python.svg" alt="python" width="40" height="40"/>
   <img src="assets/burpsuite.svg" alt="burpsuite" width="40" height="40"/>
+  <img src="assets/bootstrap.svg" alt="bootstrap" width="40" height="40" />
 </p>
 
 <!--
