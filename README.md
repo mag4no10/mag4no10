@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently studying at **University of La Laguna <br> (Computer Science and Engineering)**
 
-- 🌱 Preparing [EJPTv2](https://security.ine.com/certifications/ejpt-certification/)
+- ❄️ ICCA and eJPTv2 holder
+
+- 🌱 Mastering my skills in pentesting
 
 - 💬 Ask me about **Linux, C++ and Python**
 
