@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying at **University of La Laguna <br> (Computer Science and Engineering)**
 
-- ❄️ eWPTX & eJPTv2 holder
+- ❄️ eWPTX | eCPPT | eJPT holder
 
 - 🌱 Mastering my skills in pentesting
 
