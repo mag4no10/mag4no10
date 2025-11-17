@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="assets/pond.gif">
 
 
-- 🔭 I’m currently studying at **University of La Laguna <br> (Computer Science and Engineering)**
+- 🔭 I’m currently studying at **UOC <br> (Computer Science and Engineering)**
 
 - ❄️ eWPTX | eCPPT | eJPT holder
 
